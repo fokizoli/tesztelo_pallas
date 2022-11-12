@@ -1,3 +1,3 @@
 # tesztelo_pallas
 # első bejegyzés
-Markovics Mátyás
+Kiss Tamás
