@@ -1,6 +1,6 @@
 # tesztelo_pallas
 # első bejegyzés
-Kiss Tamás
+Foki Zoltán
 #hiba1
 #hiba2
 
