@@ -1,4 +1,6 @@
 # tesztelo_pallas
 # első bejegyzés
 Kiss Tamás
-Beírtam valamit
+#hiba1
+#hiba2
+
